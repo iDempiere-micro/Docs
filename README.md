@@ -1,2 +1,2 @@
-# Docs
-iDempire micro - Documentation
+# Documentation for the iDempire micro
+
