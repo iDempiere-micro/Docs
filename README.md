@@ -6,10 +6,10 @@ We decided to raise the bar a little bit higher and give software developers a p
 
 So instead of building everything from scratch you simply:
 
-- choose the modules you need and include them in your Java or Kotlin OSGi code (you can start with our [empty Scaffold project](https://github.com/iDempiere-micro/Scaffold))
-- enhance the database with your custom tables and views
-- extend the standard iDempiere code if needed
-- use the resulting application as a REST server with builtin authentication, users & roles etc., all the functionality from iDempiere modules included plus your custom code
+- **choose the iDempiere modules** you need and include them in your Java or Kotlin OSGi code (you can start with our [empty Scaffold project](https://github.com/iDempiere-micro/Scaffold))
+- enhance the database with your **custom tables and views**
+- **extend the standard iDempiere code** if needed
+- use the resulting application as a **REST server** with builtin authentication, users & roles etc., all the functionality from iDempiere modules included plus your custom code
 
 Note: this is not an end-user application. This is a LEGO-style back-end building kit.
 
