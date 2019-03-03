@@ -1,8 +1,8 @@
-# [iDempiere micro](https://idempiere-micro.github.io/) - highly modularized Java + Kotlin microservice back-end compatible with iDempiere ERP & CRM
+# [iDempiere micro](https://idempiere-micro.github.io/) - open source headless serverless ERP and CRM microservices compatible with [iDempiere](http://www.idempiere.org/)
 
 When building a new business system there is a lot of stuff you can reuse. Most of the well-known libraries give you reuse on the technological level: logging, users, access control etc.
 
-We decided to raise the bar a little bit higher and give software developers a possibility to reuse business entities from one of the most advanced open source Enterprise Resource Planning (ERP) and Customer Relationship Management software - [iDempiere](http://www.idempiere.org/).
+We decided to raise the bar a little bit higher and give software developers a possibility to reuse business entities from one of the most advanced open source Enterprise Resource Planning (ERP) and Customer Relationship Management software (CRM) - [iDempiere](http://www.idempiere.org/).
 
 ## What is iDempiere micro
 [iDempiere micro](https://idempiere-micro.github.io/) is an open source project to build headless serverless ERP and CRM microservices to be used by custom frontend applications like e-shops, specialized vertical applications, IoT appliances etc.
