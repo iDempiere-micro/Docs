@@ -15,4 +15,7 @@ Microservices are small application running usually in a cloud environment like 
 All the microservices share the same iDempiere database leveraging [the shared database pattern](https://microservices.io/patterns/data/shared-database.html). This also allows adding the microservices easily to existing iDempiere installation or using the full feature iDempiere](http://www.idempiere.org/) application to fulfill tasks not covered by the microservices.
 
 ## Want to know more?
-[Explore the iDempier Micro Wiki pages](https://github.com/iDempiere-micro/Docs/wiki)
+
+[Explore the iDempiere Micro Wiki pages.](https://github.com/iDempiere-micro/Docs/wiki)
+
+[Have a look at the samples](https://github.com/iDempiere-micro-samples)
