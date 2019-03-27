@@ -18,4 +18,4 @@ All the microservices share the same iDempiere database leveraging [the shared d
 
 [Explore the iDempiere Micro Wiki pages.](https://github.com/iDempiere-micro/Docs/wiki)
 
-[Have a look at the samples](https://github.com/iDempiere-micro-samples)
+[Have a look at the samples.](https://github.com/iDempiere-micro-samples)
